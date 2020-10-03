@@ -5,4 +5,3 @@ class Cat
   meow.name = "meow"
   puts meow.name
 end
-
